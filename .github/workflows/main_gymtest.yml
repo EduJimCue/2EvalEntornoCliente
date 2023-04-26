@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'gymtest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62FD10C59BED405C9C4C0400D49F9893 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_379FAA4238A9452D9B03860AAD9886AF }}
           package: .
